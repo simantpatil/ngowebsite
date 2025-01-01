@@ -1,184 +1,201 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "",
+    "paragraph": ""
+    
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Suvidha Mahila Mandal, established on September 8, 1995, is a non-profit organization working to impart education among the financially challenged sections to help them realize parity in education and strength of little minds in building a promising future. The organization has provisions of student internships, student mentorship, and the scope to volunteer. Through these programs, the organization aims to achieve the vision of imparting innovative education that stays with the students forever and equips them for the unforeseen future.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Tree Plantation",
+      "Fundraising Events",
+      "Cloths Distribution",
+      "Women's Day"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Food Donation Initiatives",
+      "Sanitary Pads Distribution",
+      "Free Workshops",
+      "Ensuring Happy and Healthy Animals"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Tree Plantation",
+      "largeImage": "img/portfolio/Tree-Plantation.jpg",
+      "smallImage": "img/portfolio/Tree-Plantation.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Fundraising Events",
+      "largeImage": "img/portfolio/Fundraising.jpg",
+      "smallImage": "img/portfolio/Fundraising.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Cloths Distribution",
+      "largeImage": "img/portfolio/Cloths-Distribution.jpg",
+      "smallImage": "img/portfolio/Cloths-Distribution.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Women's Day",
+      "largeImage": "img/portfolio/Women's-Day.jpg",
+      "smallImage": "img/portfolio/Women's-Day.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Food Donation Initiatives by Our NGO",
+      "largeImage": "img/portfolio/Food-Donation.jpg",
+      "smallImage": "img/portfolio/Food-Donation.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Ensuring Happy and Healthy Animals through Feeding Programs",
+      "largeImage": "img/portfolio/Animal-Feeding.jpg",
+      "smallImage": "img/portfolio/Animal-Feeding.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Sanitary Pads Distribution",
+      "largeImage": "img/portfolio/Sanitary-Pads.jpg",
+      "smallImage": "img/portfolio/Sanitary-Pads.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Free Workshops",
+      "largeImage": "img/portfolio/Free-Workshop.jpg",
+      "smallImage": "img/portfolio/Free-Workshop.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Suvidha Event",
+      "largeImage": "img/portfolio/Suvidha-event.jpg",
+      "smallImage": "img/portfolio/Suvidha-event.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cutlery",
+      "name": "Healthy Food",
+      "text": "By focusing on healthy food donations, our NGO aims to improve the well-being and quality of life for individuals and communities in need."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-user",
+      "name": "Social Awareness",
+      "text": "We provide resources, conduct awareness campaigns, and facilitate access to hygiene facilities, aiming to create a healthier environment and prevent the spread of diseases."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-tree",
+      "name": "Tree Plantation",
+      "text": "Through community engagement and active participation, we successfully planted thousands of trees, fostering a greener and healthier ecosystem for future generations."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-medkit",
+      "name": "Health Care",
+      "text": "We believe that access to healthcare is a fundamental right, and we work tirelessly to ensure that healthcare services are accessible, affordable, and of high quality for those in need."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-book",
+      "name": "Primary Education",
+      "text": "By collaborating with local communities and educators, we aim to empower children with the knowledge and skills they need for a brighter future."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "Social Care",
+      "text": "Our programs encompass a range of support services, including counseling, vocational training, and advocacy, with the goal of empowering individuals"
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Suvidha foundation is a great platform for flourishing your skills and learning in an applied sector.",
+      "name": "Hargun Sachdeva"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "I learned a lot here: Public relation, Self confidence, Communication, Leadership, Taking meeting, Fundraising",
+      "name": "Harshika"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Your NGO's tireless efforts and unwavering commitment to creating positive change have made a significant impact",
+      "name": "Ananya Tripathi"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "The NGO's impactful initiatives and unwavering commitment have brought about positive change",
+      "name": "Nidhi Doshi"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "It was an amazing Experience and I loved working on it. It was an amazing Experience and I loved working on it.",
+      "name": "Varsha jain"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "It was short but a good tenure It was short but a good tenureIt was short but a good tenure",
+      "name": "Rahul Yadav"
+    },
+    {
+      "img": "img/testimonials/07.jpg",
+      "text": "They encourage & support us in every situation & also provide guidance at all times.",
+      "name": "Ria saigal"
+    },
+    {
+      "img": "img/testimonials/08.jpg",
+      "text": "As a suvidha foundation is non governmental organization contributing towards growth of social cause.",
+      "name": "Priyanka Thole"
+    },
+    {
+      "img": "img/testimonials/09.jpg",
+      "text": "Really grateful to Suvidha Foundation for hiring me for this HR Internship. i learnt a lot, everything was expectations were met.",
+      "name": "Anushmita Paul"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Shobha Motghare",
+      "job": "Secretary"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Payal Badhe",
+      "job": "President"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Bharti Shendre",
+      "job": "Treasurer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Nilima Kalambe",
+      "job": "Advisor"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Suvidha Foundation, Motghare Bhavan, Ward No. 4, Santnagar, Annamod, Near Water Tank, Khaperkheda, Saoner, Nagpur, Maharashtra, India Pincode - 441102",
+    "phone": "Vazhra Nirman Pushpak, C Block 701, 500090, Hyderabad",
+    "phone1": "+91 7020044091",
+    "email": "info@suvidhafoundationedutech.org",
+    "facebook": "https://instagram.com/suvidha_mahila_mandal?igshid=YmMyMTA2M2Y=",
+    "twitter": "https://www.linkedin.com/company/suvidha-foundation/mycompany/",
+    "youtube": "https://docs.google.com/forms/d/e/1FAIpQLSfAaaHU-k256CY6_83JPBOYeVFtKuKBvqMJb7oBIsDLKRmwNg/viewform"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-globe",
+      "title": "15+",
+      "text": "Countries"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-user",
+      "title": "3L+",
+      "text": "Volunteers"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-briefcase",
+      "title": "1 Cr+",
+      "text": "Internship Goal"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-tree",
+      "title": "54 L+",
+      "text": "Trees Planted"
     }
   ]
 }

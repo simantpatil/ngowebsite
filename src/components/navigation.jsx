@@ -3,8 +3,8 @@ import React from "react";
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
-      <div className="container">
-        <div className="navbar-header">
+      <div className="container">    
+        <div className="navbar-header">         
           <button
             type="button"
             className="navbar-toggle collapsed"
@@ -17,8 +17,9 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
+          <img src="./img/SuvidhaLogo.png" width="230" height="65"></img>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+            
           </a>{" "}
         </div>
 
@@ -29,7 +30,7 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
+              
               </a>
             </li>
             <li>
